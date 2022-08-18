@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stef-PS
-- 👀 I’m interested in TS, Vue, React, Svelte, Nuxt, Next, SvelteKit, GraphQL, RxJS, Node, Deno, etc.
+- 👀 I’m interested in TS, Vue, React, Svelte, Nuxt, Next, SvelteKit, GraphQL, RxJS, Node, Deno, Islands Architectures, Astro, etc.
 
 <!---
 Stef-PS/Stef-PS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
